@@ -1,1 +1,11 @@
+A possible IoT project.
 
+A high performance MCU/MPU with following features-
+
+Analog- ADC, DAC
+Control- 16/24 bit timers, PWM motor control
+Memory Controller- SDRAM, SDMMC, QSPI flash
+Communication- UART, SPI, QSPI, I2C, SMBUS, USB HS/FS/OTG, CAN, Ethernet
+Wireless- ? - BLE, Thread, Matter, LoRA, Zigbee
+Display- u/HDMI, LCD
+Audio- ?
