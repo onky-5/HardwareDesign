@@ -1,1 +1,15 @@
+Processing unit is critical component of the project.
+
+MCU- A high performnance MCU with ARM cortex M4 or M7 core.
+MPU- An entry level MPU with minimal quantity of interface to cover all the requirements
+SoC- Expensive.
+FPGA- Expensive.
+
+Contendors-
+1.MCU-
+https://www.st.com/en/microcontrollers-microprocessors/stm32f446re.html
+
+2.MPU
+https://www.st.com/en/microcontrollers-microprocessors/stm32mp135a.html#st_circuit-diagram_sec-nav-tab
+https://www.nxp.com/products/processors-and-microcontrollers/arm-processors/i-mx-applications-processors/i-mx-6-processors/i-mx-6solox-processors-heterogeneous-processing-with-arm-cortex-a9-and-cortex-m4-cores:i.MX6SX
 
