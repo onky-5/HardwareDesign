@@ -1,7 +1,7 @@
 # HardwareDesign
 
 Learning goal-
-Highspeed Hardware design of MCU/SOC that incl external interfaces of memory, USB, Enthernet, flash.
+Highspeed Hardware design of MCU/MPU/SOC/FPGA that incl external interfaces of memory, USB, Enthernet, flash.
 
 Tasks-
 1. Requirement gathering
